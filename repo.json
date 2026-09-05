@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "data-media-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w03-53",
+      "slug": "recording-storage-estimator",
+      "title": "Recording Storage Estimator",
+      "title_ru": "Оценка объёма записи",
+      "family": "data_media",
+      "purpose": "Estimates media volume from declared bitrate, camera count and duration.",
+      "purpose_ru": "Оценивает объём носителей по битрейту, числу камер и длительности записи.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w03-54",
+      "slug": "backup-throughput-planner",
+      "title": "Backup Throughput Planner",
+      "title_ru": "Планировщик скорости резервного копирования",
+      "family": "data_media",
+      "purpose": "Compares ingest volume and verified copy throughput against available windows.",
+      "purpose_ru": "Сравнивает объём материала и проверенную скорость копирования с доступными окнами.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

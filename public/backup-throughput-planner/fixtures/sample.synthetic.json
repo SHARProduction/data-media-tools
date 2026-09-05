@@ -1,0 +1,6 @@
+{
+  "volumeGb": 600,
+  "throughputMBps": 180,
+  "availableMinutes": 75,
+  "copies": 2
+}
